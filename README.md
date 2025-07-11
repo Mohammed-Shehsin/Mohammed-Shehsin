@@ -13,7 +13,12 @@ Here are some of my key projects that showcase my skills in robotics, automation
 🔸 [**Robotic Manipulator Controlled by Potentiometers**](https://github.com/Mohammed-Shehsin/Manipulator)  
 A 5-DOF servo-based robotic arm controlled using analog potentiometers (Arduino-based).
 
-![Robotic Manipulator - Action View](./Manipulator/img/action_view.png)
+<p align="center">
+  <a href="https://github.com/Mohammed-Shehsin/Manipulator">
+    <img src="https://github.com/Mohammed-Shehsin/Manipulator/blob/main/img/action_view.png?raw=true" alt="Manipulator Action View" width="85"/>
+  </a>
+</p>
+
 
 🔸 [**Hand Gesture Recognition with LED Matrix Display**](https://github.com/Mohammed-Shehsin/Hand-gesture-recognition--)  
 Uses OpenCV & MediaPipe to detect finger count and display it on an 8x8 LED matrix via Arduino.
