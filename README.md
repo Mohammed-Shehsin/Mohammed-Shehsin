@@ -22,6 +22,9 @@ A 5-DOF servo-based robotic arm controlled using analog potentiometers (Arduino-
 
 🔸 [**Hand Gesture Recognition with LED Matrix Display**](https://github.com/Mohammed-Shehsin/Hand-gesture-recognition--)  
 Uses OpenCV & MediaPipe to detect finger count and display it on an 8x8 LED matrix via Arduino.
+<p align="center">
+  <img src="https://github.com/Mohammed-Shehsin/Hand-gesture-recognition--/blob/main/img/WhatsApp%20Image%202025-07-11%20at%2019.49.53_a0f286c6.jpg?raw=true" alt="Hand Gesture to LED Matrix" width="150"/>
+</p>
 
 🔸 [**8x8 LED Matrix Snake Game**](https://github.com/Mohammed-Shehsin/8x8-MATRIX-LED---SNAKE-GAME-MOUDLE)  
 8x8 LED Matrix Snake Game is controlled by an Arduino using a joystick for direction and a potentiometer for speed control. The game handles snake movement, food generation, collision detection, and display updates
@@ -30,10 +33,12 @@ Uses OpenCV & MediaPipe to detect finger count and display it on an 8x8 LED matr
     <img src="https://github.com/Mohammed-Shehsin/8x8-MATRIX-LED---SNAKE-GAME-MOUDLE/blob/main/img/WhatsApp%20Image%202025-07-11%20at%2019.38.31_32dcbd89.jpg?raw=true" alt="Snake Game Demo" width="85"/>
   </a>
 </p>
-🔸 [**Artic Jump Game - A Platfomer Game**](https://github.com/Mohammed-Shehsin/Artic-Jump)  
+
+🔸 [**Artic Jump Game - A Platfomer Game**](https://github.com/Mohammed-Shehsin/Artic-Jump)
 The game is written in C++ and utilizes the SFML (Simple and Fast Multimedia Library) for graphics and audio.
 
-🔸 [**ROS 2 Robot Simulation (FOUR-Wheel Bot)**](https://github.com/Mohammed-Shehsin/Four-Wheel-Bot-ROS2)  
+
+🔸 [**ROS 2 Robot Simulation (FOUR-Wheel Bot)**](https://github.com/Mohammed-Shehsin/Four-Wheel-Bot-ROS2) 
 A Gazebo and RViz simulation project with TF broadcasting and robot_state_publisher integration.
 
 ---
