@@ -98,11 +98,6 @@ A Gazebo and RViz simulation project with TF broadcasting and robot_state_publis
 
 ---
 
-## Visitors 👁
-
-![Visitor Count](https://profile-counter.glitch.me/Mohammed-Shehsin/count.svg)
-
----
 
 ## Contact Info 🗨
 
